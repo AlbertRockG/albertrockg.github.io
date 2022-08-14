@@ -13,7 +13,7 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /projects/
+    url: /_projects/
     
   - title: "CV"
     url: /files/AlbertRockG-CV-2022.pdf
