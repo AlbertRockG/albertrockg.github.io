@@ -1,11 +1,11 @@
 ---
-permalink: /
 title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
+excerpt: About me
+author_profile: yes
+redirect_from:
+- /about/
+- /about.html
 ---
 
 Hello! I'm a Msc student at the [University of Abomey-Calavi](https://cours.uac.bj/), in the Departement of Biochemistry and Molecular biology. To date, my work has focused on major malaria vectors. In particular, I'm interested in the interplay between the mosquito microbiome and its insecticide resistance phenotype. I keep a general interest in mosquito omics and population genomics, especially how each of those components of mosquito biology are involved in the rapid evolution and spread of resistance in the major malaria vector, *Anopheles gambiae*.
